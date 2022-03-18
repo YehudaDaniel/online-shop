@@ -60,11 +60,11 @@ an online store for fast purchases
 
 # Flow1
  ## onload:
-  1. HTTPRequest - GET {products, categories, cart, cartlines}
+  1. HTTPRequest - GET { products, categories, cart, cartlines }
   2. ### Presentation:
-   2.1 display Navbar
-   2.2 display cart
-   2.3 display products
+   21. display Navbar
+   22. display cart
+   23. display products
 
 # Flow2
  ## onclick:
