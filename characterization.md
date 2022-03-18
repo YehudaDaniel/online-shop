@@ -62,9 +62,9 @@ an online store for fast purchases
  ## onload:
   1. HTTPRequest - GET { products, categories, cart, cartlines }
   2. ### Presentation:
-   21. display Navbar
-   22. display cart
-   23. display products
+   - display Navbar
+   - display cart
+   - display products
 
 # Flow2
  ## onclick:
