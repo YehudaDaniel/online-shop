@@ -61,7 +61,7 @@ an online store for fast purchases
 # Flow1
  ## onload:
   1. HTTPRequest - GET { products, categories, cart, cartlines }
-  2. ### Presentation:
+  2. Presentation:
    21. display Navbar
    22. display cart
    23. display products
