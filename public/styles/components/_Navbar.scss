@@ -1,0 +1,23 @@
+//Variables
+$nav-color: rgb(56, 56, 56);
+
+//Styles
+nav{
+    top: 0;
+    width: 100vw;
+    height: 70px;
+    padding: 5px;
+    position: fixed;
+    background: $nav-color;
+}
+#img{
+    display: flex;
+    align-items: center;
+}
+
+#nav-title{
+    color: white;
+    font-size: 32px;
+    margin: 0 20px;
+    letter-spacing: 5px;
+}
