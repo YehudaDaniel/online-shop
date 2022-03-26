@@ -10,10 +10,11 @@ module.exports = {
     },
     module: {
         rules: [{
-            test: /\.css$/, //compile only css files with this rule
+            test: /\.scss$/, //compile only scss files with this rule
             use: [
                 'style-loader',
-                'css-loader'
+                'css-loader',
+                'sass-loader'
             ],
             exclude: /node_modules/
         }],

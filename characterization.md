@@ -8,7 +8,7 @@ an online store for fast purchases
 - flows
 
  ## Modules/Models
- - Navbar
+ - Navbar\
  - Product
  - Cart
  - Payment

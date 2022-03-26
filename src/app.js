@@ -1,9 +1,9 @@
 import {Onlineshop} from './views/Onlineshop';
-import '../public/styles/index.css';
-import '../public/styles/Navbar.css';
+
+//import all the styles here in order to load them automatically(without <link> tags in <head>)
+import '../public/styles/index.scss';
 
 function init() {
-    // console.log(Onlineshop['get Onlineshop']);
     Onlineshop();
 }
 
